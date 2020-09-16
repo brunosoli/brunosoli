@@ -1,5 +1,5 @@
 # Bruno Oliveira
-[![Instagram Badge](https://img.shields.io/badge/-brunosoli-C13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
+[![Instagram Badge](https://img.shields.io/badge/-brunosoli-C13584?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
 
 
 ## Hi there 👊
