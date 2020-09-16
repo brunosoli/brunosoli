@@ -5,7 +5,7 @@
 ## Hi there 👊
 It's-a me Bruno!
 
-I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.br), responsible to bring it's IT infrastructure to the next level.
+I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.br), responsible for bringing it's IT infrastructure to the next level.
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=brunosoli&show_icons=true)
 
