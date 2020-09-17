@@ -1,5 +1,5 @@
 # Bruno Oliveira
-[![Instagram Badge](https://img.shields.io/badge/-brunosoli-C13584?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
+[![Instagram Badge](https://img.shields.io/badge/-brunosoli-d62976?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
 
 
 ## Hi there 👊
@@ -20,7 +20,7 @@ I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.b
   - JavaScript
 - 💬 Ask me about your commits and I will tell you who you are
 - 📫 How to reach me: brunosol@gmail.com
-- ⚡ Fun fact: I'm a pão de queijo based life form
+- ⚡ Fun fact: pão de queijo based life form
 
 
 <!--
