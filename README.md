@@ -12,14 +12,14 @@ I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.b
 [![Visits Badge](https://badges.pufler.dev/visits/brunosoli/brunosoli)](https://badges.pufler.dev)
 
 
-- 🔭 I’m currently working on deploying a new tickets management system for the company
+- 🔭 I’m currently working on deploying new apps (and migrating old ones) into the cloud
 - 🌱 I’m currently learning:
   - Docker
   - Ansible
+  - Terraform
   - Cloud Computing
-  - JavaScript
 - 💬 Ask me about your commits and I will tell you who you are
-- 📫 How to reach me: brunosol@gmail.com
+- 📫 How to reach me: bruno.oliveira@cmc.pr.gov.br
 - ⚡ Fun fact: pão de queijo based life form
 
 
