@@ -14,7 +14,8 @@ I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.b
 
 - 🔭 I’m currently working on deploying new apps (and migrating old ones) into the cloud
 - 🌱 I’m currently learning:
-  - Docker
+  - ~~Docker~~
+  - Kubernetes
   - Ansible
   - Terraform
   - Cloud Computing
