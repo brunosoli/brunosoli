@@ -15,10 +15,12 @@ I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.b
 - 🔭 I’m currently working on deploying new apps (and migrating old ones) into the cloud
 - 🌱 I’m currently learning:
   - ~~Docker~~
-  - Kubernetes
-  - Ansible
+  - ~~Kubernetes~~
+  - ~~Ansible~~
+  - IDaaS
   - Terraform
   - Cloud Computing
+  - How to get work done in trapalhões' kindergarten
 - 💬 Ask me about your commits and I will tell you who you are
 - 📫 How to reach me: bruno.oliveira@cmc.pr.gov.br
 - ⚡ Fun fact: pão de queijo based life form
