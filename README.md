@@ -1,16 +1,18 @@
 # Bruno Oliveira
+
 [![Instagram Badge](https://img.shields.io/badge/-brunosoli-d62976?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
 
-
 ## Hi there 👊
+
 It's-a me Bruno!
 
-I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.br), responsible for bringing it's IT infrastructure to the next level.
+I am a computer scientist, sysadmin, solutions architect, linux enthusiast :penguin:, wizard and part-time _mindingo_.
+
+I currently work as a Solutions Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.br), focusing on taking apps and services to the next level.
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=brunosoli&show_icons=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/brunosoli/brunosoli)](https://badges.pufler.dev)
-
 
 - 🔭 I’m currently working on deploying new apps (and migrating old ones) into the cloud
 - 🌱 I’m currently learning:
@@ -22,9 +24,8 @@ I am a Systems Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.b
   - Cloud Computing
   - How to get work done in trapalhões' kindergarten
 - 💬 Ask me about your commits and I will tell you who you are
-- 📫 How to reach me: bruno.oliveira@cmc.pr.gov.br
-- ⚡ Fun fact: pão de queijo based life form
-
+- 📫 How to reach me: [@brunosoli2112](https://twitter.com/brunosoli2112)
+- ⚡ Fun fact: pão de queijo based life form :cheese:
 
 <!--
 **brunosoli/brunosoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
