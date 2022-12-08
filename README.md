@@ -1,6 +1,7 @@
 # Bruno Oliveira
 
 [![Instagram Badge](https://img.shields.io/badge/-brunosoli-d62976?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
+[![Twitter Badge](https://img.shields.io/badge/-brunosoli2112-229eea?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunosoli2112/)](https://twitter.com/brunosoli2112)
 
 ## Hi there 👊
 
@@ -20,11 +21,13 @@ I currently work as a Solutions Architect at [Câmara Municipal de Curitiba](htt
   - ~~Kubernetes~~
   - ~~Ansible~~
   - IDaaS
+    - M$ AD
   - Terraform
   - Cloud Computing
+    - Elastic Beanstalk
   - How to get work done in trapalhões' kindergarten
 - 💬 Ask me about your commits and I will tell you who you are
-- 📫 How to reach me: [@brunosoli2112](https://twitter.com/brunosoli2112)
+- 📫 To reach me, [mail me](mailto:brunosol@gmail.com)
 - ⚡ Fun fact: pão de queijo based life form :cheese:
 
 <!--
