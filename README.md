@@ -1,7 +1,7 @@
 # Bruno Oliveira
 
 [![Instagram Badge](https://img.shields.io/badge/-brunosoli-d62976?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
-[![Twitter Badge](https://img.shields.io/badge/-brunosoli2112-229eea?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunosoli2112/)](https://twitter.com/brunosoli2112)
+[![Twitter Badge](https://img.shields.io/badge/-brunosoli_-229eea?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunosoli_/)](https://twitter.com/brunosoli_)
 
 ## Hi there 👊
 
@@ -20,15 +20,16 @@ I currently work as a Solutions Architect at [Câmara Municipal de Curitiba](htt
   - ~~Docker~~
   - ~~Kubernetes~~
   - ~~Ansible~~
-  - IDaaS
-    - M$ AD
+  - ~~IDaaS~~
+    - ~~M$ AD~~
   - Terraform
   - Cloud Computing
+    - Kafka
     - Elastic Beanstalk
   - How to get work done in trapalhões' kindergarten
 - 💬 Ask me about your commits and I will tell you who you are
 - 📫 To reach me, [mail me](mailto:brunosol@gmail.com)
-- ⚡ Fun fact: pão de queijo based life form :cheese:
+- ⚡ Fun fact: pão de queijo based life form :cheese: :mouse_trap:
 
 <!--
 **brunosoli/brunosoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
