@@ -1,7 +1,7 @@
 # Bruno Oliveira
 
 [![Instagram Badge](https://img.shields.io/badge/-brunosoli-d62976?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/brunosoli/)](https://www.instagram.com/brunosoli/)
-[![Twitter Badge](https://img.shields.io/badge/-brunosoli_-229eea?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunosoli_/)](https://twitter.com/brunosoli_)
+[![Bluesky Badge](https://img.shields.io/badge/brunosoli-0285FF?logo=bluesky&logoColor=fff&link=https://bsky.app/profile/brunosoli.bsky.social)](https://bsky.app/profile/brunosoli.bsky.social)
 
 ## Hi there 👊
 
