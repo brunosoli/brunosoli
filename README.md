@@ -7,9 +7,9 @@
 
 It's-a me Bruno!
 
-I am a computer scientist, sysadmin, solutions architect, linux enthusiast :penguin:, wizard and part-time _mindingo_.
+I am a computer scientist, sysadmin, solutions architect, linux nerd :penguin: and part-time wizard :mage_man:.
 
-I currently work as a Solutions Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.br), focusing on taking apps and services to the next level.
+I currently work as a Manager Solutions Architect at [Câmara Municipal de Curitiba](https://cmc.pr.gov.br) leading a team of automation engineers in our cloud-first transformation. Hands-on leader focused on building resilient systems and empowering the team to serve our community.
 
 ![GH stats](https://github-readme-stats.vercel.app/api?username=brunosoli&show_icons=true)
 
@@ -22,10 +22,13 @@ I currently work as a Solutions Architect at [Câmara Municipal de Curitiba](htt
   - ~~Ansible~~
   - ~~IDaaS~~
     - ~~M$ AD~~
-  - Terraform
+  - ~~Terraform~~
   - Cloud Computing
-    - Kafka
-    - Elastic Beanstalk
+    - ~~Kafka~~
+    - ~~Elastic Beanstalk~~
+    - Container Orchestration
+  - Vaults
+  - FreeRADIUS
   - How to get work done in trapalhões' kindergarten
 - 💬 Ask me about your commits and I will tell you who you are
 - 📫 To reach me, [mail me](mailto:brunosol@gmail.com)
